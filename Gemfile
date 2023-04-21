@@ -49,7 +49,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 # React dependencies
-gem "shakapacker", "= 6.5"
+gem "shakapacker", "= 6.6"
 gem "react_on_rails", "= 13.3"
 
 # Authentication
@@ -81,5 +81,4 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
-
 
