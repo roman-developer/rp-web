@@ -2,7 +2,7 @@
 
 ## rrp-web (Rails + React + Postgresql)
 
-<b>rrp-web</b> is a base project to create a web application (monolith) using Ruby On Rails, ReactJs and Postgresql.
+<b>rp-web</b> is a base project to create a web application (monolith) using Ruby On Rails and Postgresql.
 
 ## Motivation
 
@@ -10,7 +10,7 @@ I have been motivated to build this application because I wanted to have a base 
 
 ## Tech/framework used
 
-Built with [Ruby on Rails](https://rubyonrails.org/) and [React on Rails](https://www.shakacode.com/react-on-rails/docs/getting-started/).
+Built with [Ruby on Rails](https://rubyonrails.org/).
 - Ruby version: 3.1.2p20
 - Rails version: 7.0.3
 
@@ -18,14 +18,14 @@ Database:
 - PostgreSQL version: 14.3
 
 Frontend:
-- HTML, SCSS and ReactJS.
+- HTML, SCSS.
 
 ## Rails features
 
 In this application I have used the following Rails features:
 - Rails authentication with devise.
 - CRUD for Post model
-- Views in rails and react
+- 
 
 ## Application screenshots
 
