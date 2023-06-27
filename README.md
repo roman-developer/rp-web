@@ -1,12 +1,12 @@
 # README
 
-## rrp-web (Rails + React + Postgresql)
+## rrp-web (Rails + Postgresql)
 
 <b>rp-web</b> is a base project to create a web application (monolith) using Ruby On Rails and Postgresql.
 
 ## Motivation
 
-I have been motivated to build this application because I wanted to have a base project coded in Ruby on Rails but using React JS in some views. This is a base project that we could use as blueprint for build other projects in the future without the necessity to set up all the environment again.
+I have been motivated to build this application because I wanted to have a base project coded in Ruby on Rails. This is a base project that we could use as blueprint for build other projects in the future without the necessity to set up all the environment again.
 
 ## Tech/framework used
 
