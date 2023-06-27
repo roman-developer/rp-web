@@ -10,7 +10,9 @@ I have been motivated to build this application because I wanted to have a base 
 
 ## Tech/framework used
 
+
 Built with [Ruby on Rails](https://rubyonrails.org/).
+
 - Ruby version: 3.1.2p20
 - Rails version: 7.0.3
 
@@ -25,7 +27,8 @@ Frontend:
 In this application I have used the following Rails features:
 - Rails authentication with devise.
 - CRUD for Post model
-- 
+- Admin panel
+
 
 ## Application screenshots
 
