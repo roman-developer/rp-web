@@ -1,6 +1,6 @@
 # README
 
-## rrp-web (Rails + Postgresql)
+## rp-web (Rails + Postgresql)
 
 <b>rp-web</b> is a base project to create a web application (monolith) using Ruby On Rails and Postgresql.
 
