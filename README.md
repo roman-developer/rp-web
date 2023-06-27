@@ -2,7 +2,7 @@
 
 ## rp-web (Rails + Postgresql)
 
-<b>rp-web</b> is a base project to create a web application (monolith) using Ruby On Rails, ReactJs and Postgresql.
+<b>rp-web</b> is a base project to create a web application (monolith) using Ruby On Rails and Postgresql.
 
 ## Motivation
 
@@ -10,7 +10,9 @@ I have been motivated to build this application because I wanted to have a base 
 
 ## Tech/framework used
 
-Built with [Ruby on Rails](https://rubyonrails.org/)
+
+Built with [Ruby on Rails](https://rubyonrails.org/).
+
 - Ruby version: 3.1.2p20
 - Rails version: 7.0.3
 
@@ -26,6 +28,7 @@ In this application I have used the following Rails features:
 - Rails authentication with devise.
 - CRUD for Post model
 - Admin panel
+
 
 ## Application screenshots
 
